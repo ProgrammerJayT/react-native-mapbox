@@ -1,2 +1,1 @@
-export const mapboxAccessToken =
-  'pk.eyJ1IjoiaGF3a3dhdGNodHJhY2tlciIsImEiOiJja3IxeTg2bDQwZjhhMnVyeGN2Z2E4Zm9hIn0.MTbTHIk6RB1t1lfhAGL-ow';
+export const mapboxAccessToken = 'YOUR_PUBLIC_TOKEN';
