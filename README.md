@@ -14,21 +14,3 @@ Before you begin, make sure you have the following:
 
 1. Create a new React Native project (skip this step if you already have a project).
 -npx react-native@latest init appName
-
-
-## Configuration
-
-1. Obtain a Mapbox access token from your Mapbox account dashboard.
-
-2. In your React Native project, navigate to the file where you want to use Mapbox (e.g., App.js).
-
-3. Import the necessary components and the Mapbox access token:
-
-```javascript
-import Mapbox from '@rnmapbox/maps';
-import { mapboxAccessToken } from './path/to/mapboxAccessToken';
-
-Resources
-Mapbox Documentation (https://docs.mapbox.com/)
-
-Mapbox React Native SDK - (https://github.com/react-native-mapbox/maps)
